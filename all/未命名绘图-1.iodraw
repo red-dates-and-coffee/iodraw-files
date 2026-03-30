@@ -16,15 +16,6 @@
         <mxCell id="m4JPULRtPG78zgsDY49Q-7" value="2. 铸棒/模具/挤压筒加热" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="660" y="539" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-8" value="3. 挤压成型过程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="660" y="619" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-9" value="在线检测 B" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="627" y="699" width="127" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-10" value="4. 冷却淬火过程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="660" y="875" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="m4JPULRtPG78zgsDY49Q-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.51;entryY=0.01;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-4" target="m4JPULRtPG78zgsDY49Q-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -40,25 +31,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-7" target="m4JPULRtPG78zgsDY49Q-8" edge="1">
+        <mxCell id="m4JPULRtPG78zgsDY49Q-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-8" target="m4JPULRtPG78zgsDY49Q-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-9" target="m4JPULRtPG78zgsDY49Q-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m4JPULRtPG78zgsDY49Q-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.51;entryY=0.01;rounded=0;" parent="1" source="m4JPULRtPG78zgsDY49Q-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="690.612244897959" y="955" as="targetPoint" />
+            <mxPoint x="690.5882352941176" y="619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
