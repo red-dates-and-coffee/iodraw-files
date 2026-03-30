@@ -11,7 +11,7 @@
           <mxGeometry x="660" y="281" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m4JPULRtPG78zgsDY49Q-6" value="检测项目 A" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="627" y="361" width="127" height="127" as="geometry" />
+          <mxGeometry x="360" y="340" width="394" height="148" as="geometry" />
         </mxCell>
         <mxCell id="m4JPULRtPG78zgsDY49Q-7" value="2. 铸棒/模具/挤压筒加热" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="660" y="539" width="60" height="30" as="geometry" />
